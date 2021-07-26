@@ -17,4 +17,3 @@ A fully responsive Hulu clone built using [NextJs](https://nextjs.org/) and [Tai
 ## Platform
 Hosted through [Vercel](https://vercel.com/).
 
-## License
